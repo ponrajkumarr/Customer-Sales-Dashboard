@@ -100,7 +100,7 @@ The data model follows a **Star Schema**:
 **Ponraj Kumar R**  
 Power BI Developer | Data Analyst  
 📍 Tamil Nadu, India  
-[https://www.linkedin.com/in/pnrjkmr/]
+[https://www.linkedin.com/in/ponrajkumar-dataanalyst/]
 
 ---
 
